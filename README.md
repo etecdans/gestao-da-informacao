@@ -5,7 +5,7 @@
 
 > 💡 **Descrição do Projeto**  
 > Este repositório contém o código-fonte da **página de Gestão da Informação** da  
-> **Etec "Dr. Adail Nunes da Silva"**, desenvolvida com o objetivo de centralizar e facilitar o acesso às informações institucionais, documentos e materiais de apoio para docentes, discentes e equipe gestora.
+> **Etec "Dr. Adail Nunes da Silva"**, desenvolvida com o objetivo de centralizar e facilitar o acesso às informações institucionais, documentos e materiais de apoio para docentes e equipe gestora.
 
 ---
 
